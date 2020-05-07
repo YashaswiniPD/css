@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+.bottom
+{
+  background-color: #66BFBF;
+  padding: 30px 0;
+}
+.btm
+{
+  color: #EAF6F6;
+  padding: 20px 0 0;
+}
+.btn
+{
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Merriweather', serif;
+   font-size: 40px;
+   font-weight: 200;
+   padding: 10px;
+   background-color: #66BFBF;
+   border: solid #66BFBF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.btn:hover
+{
+   background-color:#11999E;
+   border: solid #11999E 1px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+.C
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cl-bottom{
+  position: absolute;
+  bottom:300px;
+  left:250px;
+}
+.cl-top{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.contact-me
+{
+  text-align: center;
+  width: 50%;
+  margin: 0 auto 0 auto ;
+}
+.footer-link
+{
+padding: 0 40px;
+color: #11999E;
+font-family: 'Merriweather', serif;
+text-decoration: none;
+}
+.footer-link:hover
+{
+  color: #EAF6F6;
+}
+
+hr
+{
+  width: 4%;
+  border-style: dotted none none none;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+h1
+{
+  color: #66BFBF;
+  font-size: 4.375rem;
+  margin-top: 50px;
+  margin-bottom:0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.middle
+{
+  padding: 60px 0;
+}
+
+.python
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+p
+{
+  color: #40514E;
+  line-height: 2;
+}
+
+.profile
+{
+  text-align: center;
+  width: 50%;
+  margin: 0 auto 0 auto ;
+}
+.skill-row
+{
+  width: 50%;
+  margin:0 auto 0 auto;
+  text-align:left;
+
+  margin-bottom: 50px;
+}
+.top{
+  background-color: #dff5f2;
+  padding-top: 100px;
+}
